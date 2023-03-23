@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter genres classifier </title>
+    <link rel="stylesheet" href="../static/predict.css">
+</head>
+
+<body>
+
+
+    <div class="heading">
+        <h1> Twitter tweets genres prediction</h1>
+    </div>
+    <form action="/" method="POST" class="form-container">
+        <div class="Twitter">
+            <p class="text">Enter your tweet here : </p>
+            <input type="text" class="tweet-in" name="tweet" id="tweet" >
+            <br><br>
+            <button type="submit" class="predict-btn"> Predict </button>
+
+        </div>
+    </form>
+
+
+    <div class="output">
+        {% if predicted_topic %}
+        <h3>Category: {{ predicted_topic }}</h3>
+        {% endif %}
+    </div>
+
+    <!-- 
+<div class="output">
+    <p>
+        {% if category %}
+        <h3>Category : ${{category}}</h3>
+        {% endif %}
+
+    </p> -->
+
+
+
+</body>
+<html>

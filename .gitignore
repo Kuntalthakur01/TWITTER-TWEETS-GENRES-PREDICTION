@@ -1,0 +1,6 @@
+# ignore virtual environment
+myenv/
+
+# ignore large files
+myenv/lib/python3.7/site-packages/numpy/.dylibs/libopenblas.0.dylib
+myenv/lib/python3.7/site-packages/torch/lib/libtorch_cpu.dylib

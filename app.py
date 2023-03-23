@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request, render_template
 import pickle
 import torch 
+import os 
 
 app = Flask(__name__)
 
@@ -54,5 +55,6 @@ def predict():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run()
+    
+    app.run(port=int(os.environ.get("PORT", 5000)))
 

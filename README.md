@@ -1,7 +1,8 @@
 # DEMO: 
 
-https://github.com/Kuntalthakur01/Twitter-category-classification-using-NLP/assets/80209678/3f2cdbb1-315b-460f-96ee-c0e240fa6f36
 
+
+https://github.com/Kuntalthakur01/Twitter-tweets-genres/assets/80209678/01878fa7-72ec-4943-8d4a-9189c13926cb
 
 
 

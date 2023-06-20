@@ -17,6 +17,7 @@ The goal of this project is to build a classifier that can automatically categor
 * Entertainment
 * Technology
 * Business
+
 The project uses a dataset of tweets that have been manually labeled with one of these categories. The dataset is split into a training set and a test set, and several machine learning models are trained on the training set to classify the tweets. The best-performing model is then selected and evaluated on the test set.
 # Requirements
 To run the code in this repository, you will need the following:

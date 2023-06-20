@@ -37,3 +37,7 @@ The best-performing machine learning model achieved an accuracy of 85% on the te
 Collecting more labeled data to improve the performance of the models.
 Experimenting with different feature extraction techniques to see if they can improve the performance of the models.
 Trying out different machine learning algorithms to see if they can achieve better performance than the ones used in this project.
+
+
+# Collaborator:
+@Faruu18

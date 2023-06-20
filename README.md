@@ -40,4 +40,4 @@ Trying out different machine learning algorithms to see if they can achieve bett
 
 
 # Collaborator:
-@Faruu18
+ [Farhat Shaikh](https://github.com/Faruu18)

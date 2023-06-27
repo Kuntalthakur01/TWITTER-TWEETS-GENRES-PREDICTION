@@ -8,8 +8,6 @@ https://github.com/Kuntalthakur01/Twitter-tweets-genres/assets/80209678/01878fa7
 
 
 
-# Collaborator:
- [Farhat Shaikh](https://github.com/Faruu18)
 
 
 
@@ -22,6 +20,9 @@ This repository contains code for a machine learning project that focuses on cla
 The goal of this project is to build a classifier that can automatically categorize tweets into different categories based on their content. 
 The project uses the Huggingface tokenizer and model(cardiffnlp/tweet-topic-21-multi) for predicting the genres of the tweets.
 
+
+# Collaborator:
+### [Farhat Shaikh](https://github.com/Faruu18)
 
 ## More about the model
 The cardiffnlp/tweet-topic-21-multi model is a machine learning model based on a TimeLMs language model trained on approximately 124 million tweets from January 2018 to December 2021. The model is fine-tuned for multi-label topic classification on a corpus of 11,267 tweets and is suitable for English. The model is available on Hugging Face and can be used for predicting the genre of a tweet. The model has been benchmarked and is currently the state-of-the-art for text classification on the cardiffnlp/tweet_topic_multi dataset. The model is developed by Cardiff NLP, a research group at Cardiff University that focuses on natural language processing. The model is based on RoBERTa-base architecture and is trained to classify tweets into 21 different topics, including arts & culture, fashion & style, learning & educational, science & technology, business & entrepreneurs, film_tv_&_video, music, sports, and more. The model can be used for various applications, including sentiment analysis, topic modeling, and customer perspective analysis.

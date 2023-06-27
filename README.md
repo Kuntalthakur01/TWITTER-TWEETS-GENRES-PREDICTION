@@ -15,7 +15,8 @@ https://github.com/Kuntalthakur01/Twitter-tweets-genres/assets/80209678/01878fa7
 
  
 
-# Twitter Category Classification using NLP
+# TWITTER-TWEETS-GENRES-PREDICTION
+
 This repository contains code for a machine learning project that focuses on classifying tweets into different categories using natural language processing (NLP) techniques.
 # Overview
 The goal of this project is to build a classifier that can automatically categorize tweets into different categories based on their content. The categories that are currently supported include:

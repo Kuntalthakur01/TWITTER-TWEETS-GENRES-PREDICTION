@@ -27,7 +27,7 @@ The categories that are currently supported include:
 * Entertainment
 * Technology
 * Business
-  ..upto 18 categories in total
+  ..upto 19 categories in total
 
 The project uses a dataset of tweets that have been manually labeled with one of these categories. The dataset is split into a training set and a test set, and several machine learning models are trained on the training set to classify the tweets. The best-performing model is then selected and evaluated on the test set.
 # Requirements

@@ -11,6 +11,10 @@ https://github.com/Kuntalthakur01/Twitter-tweets-genres/assets/80209678/01878fa7
 # Collaborator:
  [Farhat Shaikh](https://github.com/Faruu18)
 
+
+
+ 
+
 # Twitter Category Classification using NLP
 This repository contains code for a machine learning project that focuses on classifying tweets into different categories using natural language processing (NLP) techniques.
 # Overview
